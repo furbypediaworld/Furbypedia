@@ -1,4 +1,4 @@
-FURBYPEDIA 2.4
+FURBYPEDIA 2.5
 
 Cambios de esta versión:
 - Bienvenida inicial con la imagen recortada hasta “¡Bienvenida a FURBYPEDIA!” y sin segundo mensaje de bienvenida.
